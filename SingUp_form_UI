@@ -26,7 +26,7 @@ public class Home extends JFrame {
     private JTextField emailField;
     private JPasswordField passwordField;
     private JPasswordField repasswordField;
-    private Point initialClick; // Σημείο που χρησιμοποιείται για τη μετακίνηση του παραθύρου
+    private Point initialClick; 
 
     /**
      * Launch the application.
