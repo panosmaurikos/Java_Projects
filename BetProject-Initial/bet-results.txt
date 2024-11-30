@@ -1,0 +1,14 @@
+------------------Results-------------------
+####################################
+Customer name: Tony di Naples
+Customer money paid: 100
+Customer gains: 150.0
+####################################
+Customer name: takis o magkas
+Customer money paid: 634
+Customer gains: 1227.8
+####################################
+Customer name: Babis Sougias
+Customer money paid: 2434
+Customer gains: 377.79999999999995
+--------------End-of-Results----------------
